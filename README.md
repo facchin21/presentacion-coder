@@ -1,6 +1,6 @@
 # Presentacion CoderHouse
 
-## Este es un proyecto creado para recomendar algunas sugerencias en la web de CoderHouse.
+## Este es un proyecto creado para mostrar algunas sugerencias en la web de CoderHouse.
 
 ![Logo de CoderHouse](/src/assets/logo-coder-house.webp)
 
