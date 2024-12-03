@@ -19,8 +19,7 @@ export const Component1 = () => {
             </CardBody>
           </CardContainer>
         </div>
-          <p className="text-center w-2/4">Imagen tomada del Hero de la web oficial
-            , ademas se le agrego una animacion sutil</p>
+          <p className="text-center w-2/4">Imagen tomada del Hero de la web oficial. Se añadió una animación sutil para mejorar la experiencia visual.</p>
       </div>
   )
 }
